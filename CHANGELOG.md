@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.1 (2026-09-01)
+
+Full Changelog: [v1.3.0...v1.3.1](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.3.1)
+
+### Chores
+
+* **internal:** clean up code comments ([#578](https://github.com/anthropics/anthropic-sdk-python/issues/578)) ([d202327](https://github.com/anthropics/anthropic-sdk-python/commit/d2023274f69dd0609ddabbf8f6af08041f868d8b))
+
 ## 1.3.0 (2026-09-01)
 
 Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0)
